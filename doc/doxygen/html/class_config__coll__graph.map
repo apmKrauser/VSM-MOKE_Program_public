@@ -1,0 +1,9 @@
+<map id="Config" name="Config">
+<area shape="rect" id="node2" href="$class_singleton.html" title="Singleton" alt="" coords="277,472,353,499"/>
+<area shape="rect" id="node4" href="$class_sweep_panel.html" title="Holds and organizes all tables options and buttons for the sweep configuration inside the fMPlot wind..." alt="" coords="875,837,970,864"/>
+<area shape="rect" id="node6" href="$class_sweep_table.html" title="Extends a UITable with PhyEditBox capabilities and and provides the sweep sequence. " alt="" coords="751,309,843,335"/>
+<area shape="rect" id="node9" href="$class_level_bar.html" title="Extends an Axes object to act as a level bar. " alt="" coords="383,635,454,662"/>
+<area shape="rect" id="node10" href="$class_phy_edit_box.html" title="Extends a text box in order to show SI values with units (kg, mA, ...) " alt="" coords="461,309,552,335"/>
+<area shape="rect" id="node11" href="$class_data_plot.html" title="DataPlot class (graphical representation of data) " alt="" coords="5,769,77,796"/>
+<area shape="rect" id="node5" href="$class_range_table.html" title="Extends a UITable with PhyEditBox capabilities. " alt="" coords="752,635,843,662"/>
+</map>

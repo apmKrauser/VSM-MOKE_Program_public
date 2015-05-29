@@ -1,0 +1,26 @@
+var class_analog_in__digilent =
+[
+    [ "AnalogIn_digilent", "class_analog_in__digilent.html#a68922bd8ded862e06b3d47b1276c7f4e", null ],
+    [ "_delete", "class_analog_in__digilent.html#a4fabbba82e32ab8ac1eda06f908fbaba", null ],
+    [ "acquire_adc", "class_analog_in__digilent.html#ab1fce8a5670358d1378cdf6bbe4c352d", null ],
+    [ "cleanUp", "class_analog_in__digilent.html#a27f3836889830cab798a5c19e63b47ea", null ],
+    [ "getHWinfoADC", "class_analog_in__digilent.html#a5ee426dd371a71042865878f78bd1932", null ],
+    [ "getInputRanges", "class_analog_in__digilent.html#a03e3adebd1d1a8c5a506ce25f5209cd8", null ],
+    [ "setPickupVrange", "class_analog_in__digilent.html#a23e655be30f4e2d5661b5ff01f87971b", null ],
+    [ "adc_initialized", "class_analog_in__digilent.html#a87737169a334059ef2914857f203b285", null ],
+    [ "adc_meas_duration", "class_analog_in__digilent.html#a408cecc58f0aad912c9161162ee51442", null ],
+    [ "adc_samples_per_second", "class_analog_in__digilent.html#a1f1446ab2050bf16d91099732a25e44c", null ],
+    [ "ADCCard_device_id", "class_analog_in__digilent.html#ab8cf7d2482ae803faa2cbcedb5eb5924", null ],
+    [ "ADCinputType", "class_analog_in__digilent.html#a72a4d3e7c2b4fa991491aaa8a4e2f1a0", null ],
+    [ "ai", "class_analog_in__digilent.html#a819b8d3f2b16c6d2aa483635de56285f", null ],
+    [ "filter", "class_analog_in__digilent.html#a628acddf0afc8042ae86efa9a43ecb7f", null ],
+    [ "hallprobe_volt", "class_analog_in__digilent.html#a84be59dc1c7de06e8faf312cf1c3e60b", null ],
+    [ "hallprobe_vrange", "class_analog_in__digilent.html#ae52a338ee938c4c1e02c5263cc43c02d", null ],
+    [ "ini_hallprobe_vrange", "class_analog_in__digilent.html#a20be50c5c5fd9daa2977fbbe2a0343d8", null ],
+    [ "ini_pickup_vrange", "class_analog_in__digilent.html#a8e3a510b9749297e4311b101ce15185e", null ],
+    [ "pickup", "class_analog_in__digilent.html#aff6dca95f9f8d304004fd0a864a4155d", null ],
+    [ "pickup_channel", "class_analog_in__digilent.html#abbd105db95c4c088d08ef522de158272", null ],
+    [ "pickup_q", "class_analog_in__digilent.html#a2e044f0f67414f0191842be2cbc99fc6", null ],
+    [ "pickup_q_channel", "class_analog_in__digilent.html#a0ef8403a0af9df81116f09f324036e7d", null ],
+    [ "pickup_vrange", "class_analog_in__digilent.html#a27864afc9d9de62ef373b22c2d858cc9", null ]
+];

@@ -1,0 +1,4 @@
+<map id="CfgStrOrNum" name="CfgStrOrNum">
+<area shape="rect" id="node2" href="$class_cfg_range.html" title="Extends a text box in order to accept numeric ranges (2 dim arrays like &quot;&#45;10 10&quot;) and automatically u..." alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$class_cfg_str.html" title="Extends a text box in order to accept string values and automatically update the corresponding Config..." alt="" coords="109,80,167,107"/>
+</map>

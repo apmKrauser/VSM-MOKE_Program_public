@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['dac_5finitialized',['dac_initialized',['../class_analog_out__mcc.html#a8e4d81ecdf7d4f3e3484adb823b3cea6',1,'AnalogOut_mcc::dac_initialized()'],['../class_fake___analog_in_and_out.html#a8e4d81ecdf7d4f3e3484adb823b3cea6',1,'Fake_AnalogInAndOut::dac_initialized()']]],
+  ['dac_5fmagnet_5fpowersupply_5fchannel',['dac_magnet_powersupply_channel',['../class_config.html#a1c34912c52afdee7f075fd30e991e9ca',1,'Config']]],
+  ['dac_5framp',['dac_ramp',['../class_analog_out__mcc.html#af7e964c175e6fbff29714d6ef513017f',1,'AnalogOut_mcc::dac_ramp()'],['../class_config.html#af7e964c175e6fbff29714d6ef513017f',1,'Config::dac_ramp()'],['../class_fake___analog_in_and_out.html#a4e2b65339c82d5f1cfc31d9c39255fd6',1,'Fake_AnalogInAndOut::DAC_ramp()']]],
+  ['dac_5fsamplerate',['dac_samplerate',['../class_analog_out__mcc.html#a468857d97589de24b91f2174da996308',1,'AnalogOut_mcc::dac_samplerate()'],['../class_config.html#a468857d97589de24b91f2174da996308',1,'Config::dac_samplerate()'],['../class_fake___analog_in_and_out.html#a40a7133e4de264204d3e09d6b86cb0cf',1,'Fake_AnalogInAndOut::DAC_samplerate()']]],
+  ['dac_5fsamples_5fper_5fsecond',['dac_samples_per_second',['../class_analog_out__mcc.html#abb6dd03a6c3b378f8c782497b9d3266f',1,'AnalogOut_mcc::dac_samples_per_second()'],['../class_fake___analog_in_and_out.html#abb6dd03a6c3b378f8c782497b9d3266f',1,'Fake_AnalogInAndOut::dac_samples_per_second()']]],
+  ['daccard_5fid',['DACCard_ID',['../class_config.html#a6eddd0742c7746b53e9fb509f92bc367',1,'Config::DACCard_ID()'],['../class_fake___analog_in_and_out.html#a2e9d59658010c5bdf23ba76daf8ff017',1,'Fake_AnalogInAndOut::DACCard_ID()']]],
+  ['dacdriver',['DACDriver',['../class_config.html#a2b97c1021a7fd7074914d45575f1afa1',1,'Config']]],
+  ['daq_5ffilter_5fidx',['daq_filter_idx',['../class_config.html#ab473398e2520c6689822a2798ed68d8d',1,'Config']]],
+  ['data',['data',['../class_sweep_table.html#a68f1b95902e6a964a359ca382a42dc77',1,'SweepTable']]],
+  ['dataformat_5fdescriptor',['dataformat_descriptor',['../class_magnetization_curve.html#a6f4a0f0aea6daf77531157969a88e6b1',1,'MagnetizationCurve::dataformat_descriptor()'],['../class_sweep_table.html#a6f4a0f0aea6daf77531157969a88e6b1',1,'SweepTable::dataformat_descriptor()']]],
+  ['dataformat_5fdescriptor_5fread',['dataformat_descriptor_read',['../class_magnetization_curve.html#a0f672deb2214c09409876fa583686526',1,'MagnetizationCurve::dataformat_descriptor_read()'],['../class_sweep_table.html#a0f672deb2214c09409876fa583686526',1,'SweepTable::dataformat_descriptor_read()']]],
+  ['dataformat_5fheader',['dataformat_header',['../class_magnetization_curve.html#a5f09d4a36e133caed16ea79faaa031ee',1,'MagnetizationCurve::dataformat_header()'],['../class_sweep_table.html#a5f09d4a36e133caed16ea79faaa031ee',1,'SweepTable::dataformat_header()']]],
+  ['dataloopavg',['dataLoopAvg',['../class_data_plot.html#aab15b01f98882b9765d54e126ade87a2',1,'DataPlot']]],
+  ['dataobject',['dataObject',['../class_data_plot.html#a48779f3569c7507ea585831c553e4d4a',1,'DataPlot']]],
+  ['datapoints',['datapoints',['../class_magnetization_curve.html#a714ba4d1b2a4608c9a3a89aaeda1c488',1,'MagnetizationCurve']]],
+  ['datfile_5fpath',['datfile_path',['../class_config.html#a746a3526d73a12fa1ae19732bf335c59',1,'Config']]],
+  ['default_5fval',['default_val',['../class_cfg_str_or_num.html#a832ca735ed9efbb55edf708be0c4a284',1,'CfgStrOrNum::default_val()'],['../class_phy_edit_box.html#a832ca735ed9efbb55edf708be0c4a284',1,'PhyEditBox::default_val()']]],
+  ['description',['description',['../class_mag_field.html#a3d46f1226ddf749f44d75784f945325e',1,'MagField']]]
+];

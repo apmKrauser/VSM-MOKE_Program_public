@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['samplesoutput',['SamplesOutput',['../class_fake___analog_in_and_out.html#a01eef4e02ef4f19457d458638af83b5a',1,'Fake_AnalogInAndOut']]],
+  ['scrollbar_5frows',['scrollbar_rows',['../class_sweep_table.html#a2f0df05d6857839f101df7e678d5d897',1,'SweepTable']]],
+  ['scrollbar_5fsize',['scrollbar_size',['../class_sweep_table.html#a1ba799c3a456989cd1419cb05785c4c0',1,'SweepTable']]],
+  ['show_5faverage',['show_average',['../class_data_plot.html#a5d8ff919ed7af267016aca855751a92a',1,'DataPlot']]],
+  ['show_5fpoints',['show_points',['../class_data_plot.html#a000021b6f5268226cffb55bb05e73023',1,'DataPlot']]],
+  ['show_5fquadrature',['show_quadrature',['../class_data_plot.html#a3ca2c1ac901dc620c1b5e067a90641f9',1,'DataPlot']]],
+  ['signal',['signal',['../class_magnetization_curve.html#a4793372a89ad663385f3ca29def16e88',1,'MagnetizationCurve']]],
+  ['signal_5fquadr',['signal_quadr',['../class_magnetization_curve.html#ad72cb08a961c77a31f3b3182b4fe1d89',1,'MagnetizationCurve']]],
+  ['signal_5fstdev',['signal_stdev',['../class_magnetization_curve.html#acdf818c38cbdc9c5c011e1f057a3efd3',1,'MagnetizationCurve']]],
+  ['singletondata',['singletonData',['../class_singleton.html#a13c22142f179f46a05e2c0278c5b671f',1,'Singleton']]],
+  ['states',['states',['../class_interlock_g_u_i_elements.html#a8dff1a2514400797718dcb1bb7892bc0',1,'InterlockGUIElements']]],
+  ['stddev_5fhallprobe_5fvolt',['stddev_hallprobe_volt',['../class_analog_in__mcc.html#a7aa7f416c752cc36ec724341369b3422',1,'AnalogIn_mcc::stddev_hallprobe_volt()'],['../class_fake___analog_in_and_out.html#a7aa7f416c752cc36ec724341369b3422',1,'Fake_AnalogInAndOut::stddev_hallprobe_volt()']]],
+  ['stddev_5fpickup',['stddev_pickup',['../class_analog_in__mcc.html#afb07be8c8c40f86f6ee15d7322bc3c35',1,'AnalogIn_mcc::stddev_pickup()'],['../class_fake___analog_in_and_out.html#afb07be8c8c40f86f6ee15d7322bc3c35',1,'Fake_AnalogInAndOut::stddev_pickup()']]],
+  ['stddev_5fpickup_5fq',['stddev_pickup_q',['../class_analog_in__mcc.html#a345b4665c348c69e0ca4dfa20a42144f',1,'AnalogIn_mcc::stddev_pickup_q()'],['../class_fake___analog_in_and_out.html#a345b4665c348c69e0ca4dfa20a42144f',1,'Fake_AnalogInAndOut::stddev_pickup_q()']]],
+  ['step',['step',['../class_sweep_table.html#a020a99ea183091b2ef4453f369c7c532',1,'SweepTable']]],
+  ['str_5fcurrent_5fcycle',['str_current_cycle',['../class_sweep_panel.html#a42d47d30b49afd90663dcc36199d45e3',1,'SweepPanel']]],
+  ['sw_5fversion',['sw_version',['../class_config.html#ac74b536870fb52f425f477fa702186d1',1,'Config']]],
+  ['sweep_5fidx',['sweep_idx',['../class_sweep_table.html#ad019a7e91c7bd63c93883c54b57ad4d7',1,'SweepTable']]],
+  ['sweeptable',['SweepTable',['../class_config.html#a6dc5566ff5757db9db64367ca7953901',1,'Config::SweepTable()'],['../class_sweep_panel.html#a6dc5566ff5757db9db64367ca7953901',1,'SweepPanel::SweepTable()']]]
+];

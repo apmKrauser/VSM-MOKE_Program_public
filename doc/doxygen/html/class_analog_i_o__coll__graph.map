@@ -1,0 +1,6 @@
+<map id="AnalogIO" name="AnalogIO">
+<area shape="rect" id="node2" href="$class_analog_in__mcc.html" title="Handles analog input for cards using DAQ&#45;toolbox leagacy interface. " alt="" coords="293,495,397,521"/>
+<area shape="rect" id="node4" href="$class_data_filter.html" title="DataFilter class (filters noise of acquired data) " alt="" coords="321,309,400,335"/>
+<area shape="rect" id="node5" href="$class_analog_out__mcc.html" title="AnalogIO class. " alt="" coords="381,435,495,462"/>
+<area shape="rect" id="node6" href="$class_mag_field.html" title="MagField class; magnetic field calculation, calibration. " alt="" coords="542,435,617,462"/>
+</map>

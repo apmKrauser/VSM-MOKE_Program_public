@@ -1,0 +1,3 @@
+<map id="LevelBar" name="LevelBar">
+<area shape="rect" id="node3" href="$class_phy_edit_box.html" title="Extends a text box in order to show SI values with units (kg, mA, ...) " alt="" coords="85,228,175,255"/>
+</map>

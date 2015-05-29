@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['calibration_5ffile_5fnr',['calibration_file_nr',['../class_mag_field.html#a5a81d3e5c55218e77a7ead7101a5a727',1,'MagField']]],
+  ['cfg_5fobj',['cfg_obj',['../class_cfg_str_or_num.html#aa24e8ee91d29152a2d54886cf460b0b8',1,'CfgStrOrNum::cfg_obj()'],['../class_phy_edit_box.html#aa24e8ee91d29152a2d54886cf460b0b8',1,'PhyEditBox::cfg_obj()']]],
+  ['cfg_5fproperty',['cfg_property',['../class_cfg_boolean.html#a336456d2efc4305153bcf678ee880c6e',1,'CfgBoolean']]],
+  ['cfg_5fvarname',['cfg_varname',['../class_cfg_str_or_num.html#a00349af12f9aad2c08ebef70bd571203',1,'CfgStrOrNum::cfg_varname()'],['../class_phy_edit_box.html#a00349af12f9aad2c08ebef70bd571203',1,'PhyEditBox::cfg_varname()']]],
+  ['cfgmain_5fshow_5fask_5flockin',['cfgmain_show_ask_lockin',['../class_gui_cfg.html#a17016e240136240a6163819aa85b9614',1,'GuiCfg']]],
+  ['cfgmain_5fshow_5fask_5fsaveconfig_5fbefore_5fmeas',['cfgmain_show_ask_saveconfig_before_meas',['../class_gui_cfg.html#a26e1176811b6e09ba04b935a905a7bea',1,'GuiCfg']]],
+  ['cfgmain_5fsignal1ch',['cfgmain_signal1ch',['../class_gui_cfg.html#ae8298e527148aad4b7edde1a8fc05c52',1,'GuiCfg']]],
+  ['cfgmain_5fsignal2ch',['cfgmain_signal2ch',['../class_gui_cfg.html#af132c58dceecf6e2daa397364cf7b3f4',1,'GuiCfg']]],
+  ['cfgobj',['CfgObj',['../class_cfg_boolean.html#a003197655c6eb290fbfa260fa4b1cdbd',1,'CfgBoolean']]],
+  ['check_5flockin_5fsensitivity',['check_lockin_sensitivity',['../class_config.html#a17226a8df215c72bdada5b9c1a91b12c',1,'Config']]],
+  ['check_5fsaveconfig_5fbefore_5fmeas',['check_saveconfig_before_meas',['../class_config.html#ad2b2c1313ef2b131952328f518039a11',1,'Config']]],
+  ['chkbox',['chkbox',['../class_cfg_boolean.html#ae82034c0f3c8d554453c8172da8cd755',1,'CfgBoolean']]],
+  ['chkbox_5fadvanced',['chkbox_advanced',['../class_sweep_panel.html#a2cfaabd2a561fb89ac14e58d74f62253',1,'SweepPanel']]],
+  ['chkbox_5fzerofield',['chkbox_zerofield',['../class_sweep_panel.html#af6874a792f112612ec68b1f3ec1acb17',1,'SweepPanel']]],
+  ['comment',['comment',['../class_config.html#a94422a543da5de1633324d172d0ae191',1,'Config']]],
+  ['config_5ffilename',['config_filename',['../class_config.html#ac49327cfa86f9b15b76d61edc98f54b8',1,'Config']]],
+  ['connection',['Connection',['../class_arduino_i_o.html#ad12352aaa7c635b897f9a4c33c01b664',1,'ArduinoIO::Connection()'],['../class_net_i_o.html#ad12352aaa7c635b897f9a4c33c01b664',1,'NetIO::Connection()']]],
+  ['controller_5fsetpoint',['controller_setpoint',['../class_h_w_controller.html#a413ba87c46424389677b3e713148c927',1,'HWController']]],
+  ['controller_5fvalue',['controller_value',['../class_h_w_controller.html#a263c61994dbef741986c110116d781ad',1,'HWController']]],
+  ['customval',['customval',['../class_magnetization_curve.html#ad3e51ace49a94859cc758e6b320fc45a',1,'MagnetizationCurve']]],
+  ['customval_5fadc',['customval_adc',['../class_analog_in__mcc.html#a4d0bb7a25d52d00ea56bce637d120d3f',1,'AnalogIn_mcc::customval_adc()'],['../class_fake___analog_in_and_out.html#a4d0bb7a25d52d00ea56bce637d120d3f',1,'Fake_AnalogInAndOut::customval_adc()'],['../class_magnetization_curve.html#a4d0bb7a25d52d00ea56bce637d120d3f',1,'MagnetizationCurve::customval_adc()']]],
+  ['customval_5fchannel',['customval_channel',['../class_analog_in__mcc.html#a622ee01a8ad03c50021e6518b25e1fb1',1,'AnalogIn_mcc']]],
+  ['cycles',['cycles',['../class_sweep_table.html#af8f90955e721d53cefe4bbfc42167c81',1,'SweepTable']]],
+  ['cyclictimer',['CyclicTimer',['../class_h_w_controller.html#ac24e177dec8090896f9e70fd5b061b6c',1,'HWController']]]
+];
